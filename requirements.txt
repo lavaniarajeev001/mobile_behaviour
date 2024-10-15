@@ -1,7 +1,6 @@
 pandas
 numpy
 seaborn
-matplotlib.pyplot
 streamlit
 sklearn
 pickle
