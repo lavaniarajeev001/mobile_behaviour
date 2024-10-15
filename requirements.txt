@@ -2,5 +2,5 @@ pandas
 numpy
 seaborn
 streamlit
-sklearn
+scikit-learn
 pickle
